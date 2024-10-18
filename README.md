@@ -13,7 +13,7 @@ This is a simple Tic-Tac-Toe game implemented in C++ using SFML for the graphica
 
 2. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/TicTacToe.git
+    git clone https://github.com/cyphex-0/tic-tac-toe.git
     cd TicTacToe
     ```
 
